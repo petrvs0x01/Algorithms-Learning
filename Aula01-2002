@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(void){
+
+  printf("Calma vida, ta de boa");
+  return 0;
+}
