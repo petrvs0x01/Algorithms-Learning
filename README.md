@@ -6,8 +6,8 @@
 # Materiais e Livros utilizados
 
 - Site de exercícios e Perfil
-https://thehuxley.com
-https://thehuxley.com/profile/46646?page=1
+  - https://thehuxley.com
+  - https://thehuxley.com/profile/46646?page=1
 
 
 - Livro
