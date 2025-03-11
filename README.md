@@ -13,4 +13,5 @@
 - Livro
 
 ![image](https://github.com/user-attachments/assets/ea0fda73-dc94-4c14-92d6-28a87c54a12f)
-https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Linguagem-Problemas/dp/8575224859
+
+> Link de compra: https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Linguagem-Problemas/dp/8575224859
