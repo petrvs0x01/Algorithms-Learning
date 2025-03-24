@@ -1,17 +1,14 @@
 # Algoritmos e Progrmação
-- Este repositório vai ser dedicado completamente ao estudo da matéria Algoritmos e Programação I da faculdade Senac.
-- Cheatsheet para C
-  - ```gcc <code> -o <output>``` | Compilar código C com o GCC (MacOS/Linux)
 
-# Materiais e Livros utilizados
+Esse repositório tem como foco principal ser dedicado ao estudo da Linguagem C.
 
-- Site de exercícios e Perfil
-  - https://thehuxley.com
-  - https://thehuxley.com/profile/46646?page=1
+# Basics
+- ```gcc <code.c> -o <code>``` - GNU C Compiler
+- ```https://www.online-cpp.com/``` - WEB Compiler
 
-
-- Livro
-
-![image](https://github.com/user-attachments/assets/ea0fda73-dc94-4c14-92d6-28a87c54a12f)
-
-> Link de compra: https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Linguagem-Problemas/dp/8575224859
+# Referências e Materiais
+- Local Para realização de exercícios
+    - [The Huxley](https://thehuxley.com)
+    - [Perfil Pessoal](https://thehuxley.com/profile/46646?page=1)
+- [Introdução à Programação com a Linguagem C: Aprenda a Resolver Problemas com uma Abordagem Prática](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Programa%C3%A7%C3%A3o-com-Linguagem-Problemas/dp/8575224859?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1ZZFT5FULY4LN)
+- Aulas Geridas pelo Professor [Guilherme Rey](https://github.com/guilhermeRey) lecionador da matéria de Programação e Algoritmos I da Faculdade Senac.
