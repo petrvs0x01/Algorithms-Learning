@@ -7,7 +7,7 @@ int main()
     printf("##########################\n");
     printf("#                        #\n");
     printf("# WELCOME TO MY SOFTWARE #\n");
-    printf("#      MXNTT4NN4 XS      #\n");
+    printf("#      0xPetrvs Exec      #\n");
     printf("#          1337          #\n");
     printf("#                        #\n");
     printf("##########################");
