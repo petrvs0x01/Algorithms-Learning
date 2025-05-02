@@ -8,7 +8,7 @@
 - ```gcc <code.c> -o <code>``` - GNU C Compiler
 - ```https://www.online-cpp.com/``` - WEB Compiler
 
-<div align="center"><h1>Source Materials and References</h1>
+<div align="center"><h1>Source Materials and References</h1></div>
 
 - **References**
     - **Aulas Geridas pelo Professor [Guilherme Rey](https://github.com/guilhermeRey) lecionador da matéria de Programação e Algoritmos I da Faculdade Senac.**
