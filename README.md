@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Algoritmos e Progrmação</h1>
+<h1>Algorithms and Programming</h1>
 <p>This directory is intended for algorithm development and C programming studies</p>
 </div>
 
