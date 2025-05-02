@@ -1,7 +1,6 @@
 <div style="align:center">
-# Algoritmos e Progrmação
-
-Esse repositório tem como foco principal ser dedicado ao estudo da Linguagem C.
+<h1>Algoritmos e Progrmação</h1>
+<p>Esse repositório tem como foco principal ser dedicado ao estudo da Linguagem C.</p>
 </div>
 
 # Basics
