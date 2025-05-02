@@ -1,6 +1,8 @@
+<div style="align-text:center">
 # Algoritmos e Progrmação
 
 Esse repositório tem como foco principal ser dedicado ao estudo da Linguagem C.
+</div>
 
 # Basics
 - ```gcc <code.c> -o <code>``` - GNU C Compiler
