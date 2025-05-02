@@ -9,7 +9,7 @@
 
 # Materials and References
 - **References**
-    -**Aulas Geridas pelo Professor [Guilherme Rey](https://github.com/guilhermeRey) lecionador da matéria de Programação e Algoritmos I da Faculdade Senac.**
+    - **Aulas Geridas pelo Professor [Guilherme Rey](https://github.com/guilhermeRey) lecionador da matéria de Programação e Algoritmos I da Faculdade Senac.**
 - **Exercice Locals**
     - [The Huxley](https://thehuxley.com)
     - [Perfil Pessoal](https://thehuxley.com/profile/46646?page=1)
