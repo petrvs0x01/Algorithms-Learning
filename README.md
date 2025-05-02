@@ -1,4 +1,4 @@
-<div style="align:center">
+<div align="center">
 <h1>Algoritmos e Progrmação</h1>
 <p>Esse repositório tem como foco principal ser dedicado ao estudo da Linguagem C.</p>
 </div>
