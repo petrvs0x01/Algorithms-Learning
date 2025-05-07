@@ -6,15 +6,11 @@
     sem chamar a função de potência da linguagem C.*/ 
 
 int Mypow(int base,int exponent){
-    
-    int i = 0,result = 1;
-    while(i < exponent){
-        result *= base;
-        i++;
+
+    for(int i=0, result=1; i < exponent; i++){
+        result *=base;
     }
-     return result;
-    
-}
+    return result;
 
 int main()
 {
