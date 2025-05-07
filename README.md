@@ -11,7 +11,7 @@
 <div align="center"><h1>Source Materials and References</h1></div>
 
 - **References**
-    - **Aulas Geridas pelo Professor [Guilherme Rey](https://github.com/guilhermeRey) lecionador da matéria de Programação e Algoritmos da Faculdade Senac.**
+    - **Aulas Geridas pelo Professor [Guilherme Rey](https://github.com/guilhermeRey) lecionador da matéria de Programação e Algoritmos da Faculdade Senac SP.**
 - **Exercice Locals**
     - [The Huxley Profile](https://thehuxley.com/profile/46646?page=1)
     - [BeeCrowd Profile](https://judge.beecrowd.com/en/profile/1098437)
