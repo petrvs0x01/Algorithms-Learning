@@ -2,11 +2,11 @@
 #define MAX 500
 
 int main(){
-    
+
     char string[MAX+1], istring[MAX+1];
     int counter = 0,counterp = 0;
 
-    printf("Phrase/Word");
+    printf("Phrase/Word\n");
     fgets(string,MAX+1,stdin);
     
     for(int i = 0; string[i] != '\n'; i++){
@@ -14,14 +14,13 @@ int main(){
             counter++;
         }
     }
-    printf("\n%d\n",counter);
     for(int counterp = 0; 0 <= counter; counterp++){
         istring[counterp] = string[counter];
         counter--;
-        printf("%d %d\n",counterp,counter);
+        if(counter == -1){
+        break; }
     }
-    
-    printf("%s",istring);
-    
+    printf("%s\n",istring);
+
     return 0;
 }
