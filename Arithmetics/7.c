@@ -11,7 +11,7 @@ int main() {
     double x,y,media;
     scanf("%lf%lf",&x,&y);
     media = (x * 3.5 + y * 7.5) / (3.5 + 7.5);
-    printf("MEDIA %.5lf",media);
+    printf("MEDIA = %.5lf",media);
     
 	return 0;
 }
