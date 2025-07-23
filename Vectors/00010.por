@@ -26,7 +26,7 @@ Inicio
            leia(nota2)
            media <- (nota1 + nota2) / 2
            se media >= 6 entao
-              pessoasaprovadas[i] <- pessoas
+              pessoasaprovadas[counter] <- pessoas
               counter <- counter + 1
            fimse
       fimpara
