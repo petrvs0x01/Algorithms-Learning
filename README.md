@@ -3,7 +3,7 @@
 <p>This directory is intended for algorithm development and programming studies</p>
 </div>
 
-<div align="center"><h1>Basics</h1></div>
+<div align="center"><h1>Essencials</h1></div>
 
 - ```gcc <code.c> -o <code>``` - GNU C Compiler
 - ```https://www.online-cpp.com/``` - WEB Compiler
