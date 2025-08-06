@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Algorithms and Programming</h1>
-<p>This directory is intended for algorithm development and C programming studies</p>
+<p>This directory is intended for algorithm development and programming studies</p>
 </div>
 
 <div align="center"><h1>Basics</h1></div>
