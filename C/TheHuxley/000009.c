@@ -1,5 +1,5 @@
 /*
-Descrição
+https://thehuxley.com/problem/19
 
 Faça um programa que leia três notas (valores reais) de um aluno, calcule sua média aritmética e
 imprima uma mensagem dizendo se o aluno foi aprovado, reprovado ou deverá fazer prova final. 
