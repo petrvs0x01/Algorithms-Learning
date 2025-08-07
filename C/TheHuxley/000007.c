@@ -22,16 +22,8 @@ int main() {
         break;
     }
     valor = valorUn*qnt;
-    if(qnt >= 15){
+    if(qnt >= 15 || valor >= 40.00){
         valor = valor - (valor * 0.15);
-        if(valor >= 40.00){
-            valor = valor - valor * 0.15;
-        }
-    }
-    else{
-        if(valor >= 40.00){
-            valor = (valorUn*qnt) - ((valorUn*qnt) * 0.15);
-        }
     }
     
     printf("R$ %.2lf\n",valor);
