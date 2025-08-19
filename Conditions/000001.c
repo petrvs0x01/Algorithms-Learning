@@ -1,4 +1,6 @@
 /*
+https://thehuxley.com/problem/43
+
 Fa�a um programa que leia 3 n�meros inteiros e imprima um (e apenas um) dos seguintes n�meros:
 
 1 (Se todos os n�meros s�o iguais)
