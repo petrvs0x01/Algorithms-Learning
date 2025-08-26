@@ -21,6 +21,10 @@
     - [Entendendo Algoritmos](https://novatec.com.br/livros/entendendo-algoritmos/)
     - [Introduction to Algorithms](https://www.ebay.com/itm/405511608007?chn=ps&mkevt=1&mkcid=28&google_free_listing_action=view_item&srsltid=AfmBOorxAG_MqdolSNezX7lhzRtgNhQtdKTAiUfdLeL877Q4e-gASeM7gu8)
     - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=asc_df_0132350882?mcid=e988e075dc433c39add4b58dcc15ebce&tag=googleshopp06-20&linkCode=df0&hvadid=709857070929&hvpos=&hvnetw=g&hvrand=4877938494286996984&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9195620&hvtargid=pla-435472505264&psc=1&language=pt_BR&gad_source=1)
+- **Documentation**
+    - [C Data Types Official](https://en.wikipedia.org/wiki/C_data_types)
+    - [Tipos de Dados em C](https://pt.wikibooks.org/wiki/Programar_em_C/Tipos_de_dados)
+    - [Tipoos de Dados em C - Wikipedia](https://en.wikipedia.org/wiki/C_data_types)
 - **Exercice Profiles**
     - [The Huxley Profile](https://thehuxley.com/profile/50937)
     - [BeeCrowd Profile](https://judge.beecrowd.com/en/profile/1098437)
