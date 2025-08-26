@@ -7,7 +7,10 @@
 
 - ```gcc <code.c> -o <code>``` - GNU C Compiler (MacOS/Linux Distros) - (C)
 - ```https://www.online-cpp.com/``` - WEB Compiler (C/C++)
+- ```http://www.mingw.org/``` - MinGW (Windows Compiler)
+- ```http://www.codeblocks.org/downloads```- CodeBlocks (C/C++ IDE)
 - ```https://godbolt.org/``` - Compiler Explorer (Assembly)
+
 
 <div align="center"><h1>Source Materials, References & Profiles</h1></div>
 
