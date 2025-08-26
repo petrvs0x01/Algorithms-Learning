@@ -5,8 +5,9 @@
 
 <div align="center"><h1>Essencials</h1></div>
 
-- ```gcc <code.c> -o <code>``` - GNU C Compiler
-- ```https://www.online-cpp.com/``` - WEB Compiler
+- ```gcc <code.c> -o <code>``` - GNU C Compiler (MacOS/Linux Distros) - (C)
+- ```https://www.online-cpp.com/``` - WEB Compiler (C/C++)
+- ```https://godbolt.org/``` - Compiler Explorer (Assembly)
 
 <div align="center"><h1>Source Materials, References & Profiles</h1></div>
 
