@@ -2,7 +2,7 @@
 #define LengthMax 100
 
 struct clientes{
-    char name[LengthMax];
+    char name[LengthMax];https://thehuxley.com/problem/36/code-editor/
     char cpf[LengthMax];
     int idade;
 };
