@@ -10,9 +10,10 @@
 - ```http://www.mingw.org/``` - MinGW (Windows Compiler)
 - ```http://www.codeblocks.org/downloads```- CodeBlocks (C/C++ IDE)
 - ```https://godbolt.org/``` - Compiler Explorer (Assembly)
+- GCC - apt install gcc (Linux)
 
 
-<div align="center"><h1>Source Materials, References & Profiles</h1></div>
+<div>align="center"><h1>Source Materials, References & Profiles</h1></div>
 
 - **References**
     - **Aulas Geridas pelo Professor [Guilherme Rey](https://github.com/guilhermeRey) lecionador da matéria de Programação e Algoritmos da Faculdade Senac SP.**
