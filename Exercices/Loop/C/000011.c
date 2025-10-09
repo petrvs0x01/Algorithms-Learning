@@ -1,18 +1,11 @@
-/*
-Faça um programa que imprima todos os números ímpares entre dois números dados.
-*/
+#include<stdio.h>
 
-#include <stdio.h>
-
-int main() {
-    int n,m;
-    scanf("%d%d",&n,&m);
-    
-    for(int i = n; i <= m; i++){
-        if(i % 2 != 0){
-            printf("%d\n",i);
-        }
+int main()
+{
+    int counter=1;
+    while(counter != 21){
+        printf("%d\n",counter);
+        counter++;
     }
-    
-	return 0;
+    return 0;
 }
