@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "4f23fe61360d16ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "e11ef0847c025bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fb32286e98cffb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/C/Recursão/Introdutório de Compreensão.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introdutório de Compreensão"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1426a8f842fee92e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d78d126fd6cb97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d609def2e05c8671",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09626f1ec10f7b8d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fcb88a8ae3d0f731",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52490ace344105d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaca9b16f88e17db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dbd5b8df24f0ce0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/C/Recursão/Introdutório de Compreensão.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introdutório de Compreensão"
+            }
+          },
+          {
+            "id": "8c2a9289edfa0b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Languages/C/Recursão/Introdutório de Compreensão.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introdutório de Compreensão"
+            }
+          },
+          {
+            "id": "cbd33f7f74e8fcf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e2b6263fa4f390c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Languages/C/Recursão/Introdutório de Compreensão.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introdutório de Compreensão"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5fb32286e98cffb8",
+  "lastOpenFiles": [
+    "Exercices/Recursion/000011.c",
+    "Exercices/Recursion/000010.c",
+    "Exercices/Recursion/000009.c",
+    "Exercices/Recursion/000008.c",
+    "Exercices/Recursion/000007.c",
+    "Exercices/Recursion/000006.c",
+    "Exercices/Recursion/000005.c",
+    "Exercices/Recursion/000004.c",
+    "Exercices/Recursion/000003.c",
+    "Languages/C/Recursão/Introdutório de Compreensão.md",
+    "Languages/C/Recursão"
+  ]
+}
